@@ -4,7 +4,7 @@ Various IDE/code-editor integrations for the hoon tree-sitter grammar
 ## Supported editors
 - [Vscode](vscode/README.md)
 - [Helix](helix/README.md)
-- Neovim
+- [Neovim](neovim/README.md)
 - Emacs
 - Codemirror
 - Atom
