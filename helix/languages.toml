@@ -1,0 +1,13 @@
+[[language]]
+name = "hoon"
+scope = "source.hoon"
+injection-regex = "hoon"
+file-types = ["hoon"]
+roots = []
+indent = { tab-width=2, unit = "  " }
+comment-token = "::"
+
+[[grammar]]
+name = "hoon"
+source = { git = "https://github.com/urbit-pilled/tree-sitter-hoon", rev = "5a905284cdbe565679aaeaf688a7e88c8f87f6d5" }
+
