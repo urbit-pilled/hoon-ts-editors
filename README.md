@@ -5,7 +5,7 @@ Various IDE/code-editor integrations for the hoon tree-sitter grammar
 - [Vscode](vscode/README.md)
 - [Helix](helix/README.md)
 - [Neovim](neovim/README.md)
-- Emacs
-- Codemirror
-- Atom
+- [Emacs](emacs/README.md)
+- [Codemirror](codemirror/README.md)
+- [Atom](atom/README.md)
 - Monaco
