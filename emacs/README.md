@@ -2,7 +2,7 @@
 
 ### Manual Method
 
-1. Clone the `hoon-ts-mode` repo using:
+1. Clone the [`hoon-ts-mode`](https://github.com/urbit-pilled/hoon-ts-mode.git) repo using:
 ```
 git clone https://github.com/urbit-pilled/hoon-ts-mode.git
 ```
