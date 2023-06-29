@@ -11,19 +11,7 @@ require('packer').startup(function(use)
         	run = function()
 		    local ts_update = require('nvim-treesitter.install').update({ with_sync = true })
 		    ts_update()
-		end,
-		config = function()
-			local parser_config = require('nvim-treesitter.parsers').get_parser_configs()
-			parser_config.hoon = {
-				install_info = {
-					url = "https://github.com/urbit-pilled/tree-sitter-hoon.git", -- local path or git repo
-					files = {"src/parser.c"},
-					generate_requires_npm = false,
-					requires_generate_from_grammar = false,
-				},
-				filetype = "hoon",
-			}
-		end,		
+		end,	
     	}
 end)
 ```
@@ -40,7 +28,3 @@ require'nvim-treesitter.configs'.setup {
 	},
 }
 ```
-
-### Using other package managers
-
-Follow the instructions from [here](https://github.com/nvim-treesitter/nvim-treesitter#adding-parsers) and use the [tree-sitter-hoon](https://github.com/urbit-pilled/tree-sitter-hoon) repository.
