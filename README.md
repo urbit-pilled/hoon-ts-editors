@@ -9,6 +9,7 @@ Various IDE/code-editor integrations for the hoon tree-sitter grammar. Click on 
 | [Helix](helix/README.md)   | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
 | [Neovim](neovim/README.md) | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
 | [Emacs](emacs/README.md)   | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
+| [Atom/Pulsar](pulsar/README.md)   | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
 | Monaco                     | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
 | Codemirror                 | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
 | Lapce                      | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
