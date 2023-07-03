@@ -5,7 +5,7 @@ Various IDE/code-editor integrations for the hoon tree-sitter grammar. Click on 
 
 | Editor | Highlighting | Symbols | Folding | Autocomplete | Snippets | Docs |
 |----------------------------|:--:|---:|---:|---:|---:|---:|
-| [Vscode](vscode/README.md) | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
+| [Vscode/VSCodium](vscode/README.md) | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
 | [Helix](helix/README.md)   | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
 | [Neovim](neovim/README.md) | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
 | [Emacs](emacs/README.md)   | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
