@@ -11,5 +11,6 @@ Various IDE/code-editor integrations for the hoon tree-sitter grammar. Click on 
 | [Emacs](emacs/README.md)   | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
 | [Atom/Pulsar](pulsar/README.md)   | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
 | Monaco                     | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
-| Codemirror                 | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
+| [Codemirror](codemirror/README.md)| ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
 | Lapce                      | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
+| Zed                      | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
