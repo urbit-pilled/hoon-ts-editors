@@ -5,7 +5,7 @@ Various IDE/code-editor integrations for the hoon tree-sitter grammar. Click on 
 
 | Editor | Highlighting | Symbols | Folding | Autocomplete | Snippets | Docs |
 |----------------------------|:--:|---:|---:|---:|---:|---:|
-| [Vscode/VSCodium](vscode/README.md) | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
+| [VSCode/VSCodium](vscode/README.md) | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
 | [Helix](helix/README.md)   | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
 | [Neovim](neovim/README.md) | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
 | [Emacs](emacs/README.md)   | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
@@ -13,4 +13,3 @@ Various IDE/code-editor integrations for the hoon tree-sitter grammar. Click on 
 | Monaco                     | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
 | [Codemirror](codemirror/README.md)| ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
 | Lapce                      | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
-| Zed                      | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
