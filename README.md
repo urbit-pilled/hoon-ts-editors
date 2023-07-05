@@ -6,10 +6,10 @@ Various IDE/code-editor integrations for the hoon tree-sitter grammar. Click on 
 | Editor | Highlighting | Symbols | Folding | Autocomplete | Snippets | Docs |
 |----------------------------|:--:|---:|---:|---:|---:|---:|
 | [VSCode/VSCodium](vscode/README.md) | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
-| [Helix](helix/README.md)   | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
-| [Neovim](neovim/README.md) | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
-| [Emacs](emacs/README.md)   | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
-| [Atom/Pulsar](pulsar/README.md)   | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
-| Monaco                     | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
-| [Codemirror](codemirror/README.md)| ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
-| Lapce                      | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
+| [Helix](helix/README.md)            | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
+| [Neovim](neovim/README.md)          | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
+| [Emacs](emacs/README.md)            | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
+| [Atom/Pulsar](pulsar/README.md)     | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
+| [Monaco](monaco/README.md)          | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
+| [Codemirror](codemirror/README.md)  | ✔️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
+| Lapce                              | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ | ⬜️ |
