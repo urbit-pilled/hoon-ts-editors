@@ -3,7 +3,8 @@
 ### Install from VSCode marketplace
 Download from [the marketplace](https://marketplace.visualstudio.com/items?itemName=urbit-pilled.hoon-highlighter) or go to `view > extensions` and search for `urbit-pilled.hoon-highlighter` in vscode extensions. 
 
-### TODO: Install from Open-vsx marketplace
+### Install from Open-vsx marketplace
+If you have Vscodium you can download the extension from [Open-vsx](https://open-vsx.org/extension/urbit-pilled/hoon-highlighter)
 
 ### Install from source
 1. `git clone https://github.com/urbit-pilled/vscode-hoon`
